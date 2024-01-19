@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "description": "Fresh apple fruit"
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "description": "Ripe bananas ready to eat"
+  },
+  {
+    "id": 3,
+    "title": "Cherry",
+    "description": "Cherries from the garden"
+  }
+]
